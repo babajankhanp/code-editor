@@ -1,38 +1,20 @@
-# Multi-Language Code Executor
+# Khan Codes - Compile and Execute code in 40+ languages
 
-This project is a multi-language code executor that allows users to write and run code in over 20 programming languages. It provides a convenient web interface for users to input their code, select the desired programming language, and execute it. This can be particularly useful for educational purposes, code testing, and quick prototyping.
+<img src="https://ik.imagekit.io/fsler7q2e/Screenshot%202024-03-10%20at%201.52.13%E2%80%AFPM.png?updatedAt=1710058967809" />
 
-# Features
+## Features:
 
-Support for over 20 programming languages including:
-JavaScript
-Python
-Java
-C++
-Ruby
-Go
-and many more!
-Simple and intuitive web interface.
-Quick code execution with instant results.
-Easy-to-understand error messages for debugging.
-Usage
-Visit the website or clone the repository to run the code executor locally.
-Choose the desired programming language from the dropdown menu.
-Write your code in the provided editor.
-Click the "Run" button to execute the code.
-View the output and any error messages in the output console.
-Supported Languages
-JavaScript
-Python
-Java
-C++
-Ruby
-Go
-Swift
-PHP
-C#
-Rust
-Kotlin
-TypeScript
-Haskell
-and many more!
+- Compile and execute code in 40+ programming languages.
+- Switch themes from a list of available themes.
+
+# TODO:
+
+1. Add more languages [DONE]
+2. User login, authentication and registration (Firebase Auth)
+3. User Profile Page
+4. Save code functionality (Firestore - use Slug based approach)
+5. Share code functionality
+
+## Support
+
+<a href="https://www.buymeacoffee.com/manuarora" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>

@@ -5,7 +5,7 @@ import styled from 'styled-components';
 const VerticalSocialMedia = () => {
   return (
     <>
-   <div class="flex flex-row items-center w-full h-full overflow-hidden text-gray-400  rounded gap-2 mt-2 justify-center mb-2">
+   <div class="flex flex-row items-center w-full h-full overflow-hidden text-gray-400  rounded gap-2 justify-center mb-2">
 <IconButton href="https://babajan-patan.vercel.app/" className="facebook">
   <FacebookIcon className="fas fa-globe" />
   <FacebookSpan></FacebookSpan>
